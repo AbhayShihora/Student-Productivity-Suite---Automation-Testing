@@ -35,7 +35,7 @@ The application tested is a **Student Productivity Suite**, where users can regi
 
 ## 🌐 Application Under Test
 
-👉 https://abhayshihora.github.io/Student-Productivity-Suite/Home.html
+👉 https://abhayshihora.github.io/Student-Productivity-Suite/index.html
 
 ---
 
